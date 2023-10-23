@@ -8,6 +8,8 @@ module.exports = {
   theme: {
     extend: {},
   },
-  plugins: [require("daisyui")],
+  darkMode: 'media',
+  plugins: [require("daisyui")
+  ],
 }
 
