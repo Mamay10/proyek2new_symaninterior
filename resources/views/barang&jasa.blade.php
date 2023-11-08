@@ -13,56 +13,106 @@
         <div class="centered">
         <div class="max-full bg-yellow-700">
             <div class="flex justify-center">
-                <p style="font-family: Poppins;" class="text-white text-5xl font-bold mt-3">BARANG & JASA</p>
+                <p style="font-family: Poppins;" class="text-black bg-white rounded text-5xl font-bold mt-3">PRODUK & JASA</p>
             </div>
             <div class="flex flex-container">
                 <div class="card w-30 h-50 bg-white shadow-xl rounded-lg mt-10 " style="width:25%">
-                    <figure><img class="" src="/asset/image/list polos.jpg" alt="" /></figure>
+                    <figure><img class="" src="/asset/image/Molding blok.jpg" alt="" /></figure>
                         <div class="card-body">
                             <h2 class="card-title text-center" style="font-size: 25px">
-                            List polos</h2>
+                            Molding Standar</h2>
                             <div class="badge badge-secondary">Rp. 20000</div>
                             <div class="card-actions justify-end">
-                            <div class="badge badge-outline">Fashion</div> 
+                            <div class="badge badge-outline">Molding</div> 
                             <div class="badge badge-outline">Products</div>
                         </div>
                 </div>
                 </div>
                 <div class="card w-30 h-50 bg-white shadow-xl rounded-lg ml-10 mt-10" style="width:25%">
-                    <figure><img class="width:25%" src="/asset/image/list mata sapi.jpg" alt="" /></figure>
+                    <figure><img class="width:25%" src="/asset/image/molding standar.jpg" alt="" /></figure>
                         <div class="card-body">
                             <h2 class="card-title text-center" style="font-size: 25px">
-                            List polos</h2>
+                            Molding Doble Block</h2>
                             <div class="badge badge-secondary">Rp. 20000</div>
                             <div class="card-actions justify-end">
-                            <div class="badge badge-outline">Fashion</div> 
+                            <div class="badge badge-outline">Molding</div> 
                             <div class="badge badge-outline">Products</div>
                         </div>
                 </div>
                 </div>
                 <div class="card w-30 h-50 bg-white shadow-xl rounded-lg ml-10 mt-10" style="width:25%">
-                    <figure><img class="width:25%" src="/asset/image/list molding.jpg" alt="" /></figure>
+                    <figure><img class="width:25%" src="/asset/image/plafongypsum1.jpg" alt="" /></figure>
                         <div class="card-body">
                             <h2 class="card-title text-center" style="font-size: 25px">
-                            List polos</h2>
+                            Plafon Block</h2>
                             <div class="badge badge-secondary">Rp. 20000</div>
                             <div class="card-actions justify-end">
-                            <div class="badge badge-outline">Fashion</div> 
+                                <div class="badge badge-outline">Plafon Gypsum</div> 
                             <div class="badge badge-outline">Products</div>
                         </div>
                 </div>
                 </div>
                 <div class="card w-30 h-50 bg-white shadow-xl rounded-lg ml-10 mt-10" style="width:25%">
-                    <figure><img class="width:25%" src="/asset/image/list kangkung.jpg" alt="" /></figure>
+                    <figure><img class="width:25%" src="/asset/image/plafongypsum2.jpg" alt="" /></figure>
                         <div class="card-body">
                             <h2 class="card-title text-center" style="font-size: 25px">
-                            List polos</h2>
+                            Plafon Up Down</h2>
                             <div class="badge badge-secondary">Rp. 20000</div>
                             <div class="card-actions justify-end">
-                            <div class="badge badge-outline">Fashion</div> 
+                            <div class="badge badge-outline">Plafon Gypsum</div> 
                             <div class="badge badge-outline">Products</div>
                         </div>
                     </div>
+                </div>
+            </div>
+                <div class="flex flex-container">
+                    <div class="card w-30 h-50 bg-white shadow-xl rounded-lg mt-10 " style="width:25%">
+                        <figure><img class="" src="/asset/image/pvc wow.jpg" alt="" /></figure>
+                            <div class="card-body">
+                                <h2 class="card-title text-center" style="font-size: 25px">
+                                PVC Grid</h2>
+                                <div class="badge badge-secondary">Rp. 20000</div>
+                                <div class="card-actions justify-end">
+                                    <div class="badge badge-outline">PVC</div> 
+                                <div class="badge badge-outline">Products</div>
+                            </div>
+                    </div>
+                    </div>
+                    <div class="card w-30 h-50 bg-white shadow-xl rounded-lg ml-10 mt-10" style="width:25%">
+                        <figure><img class="width:25%" src="/asset/image/pvc blok.jpg" alt="" /></figure>
+                            <div class="card-body">
+                                <h2 class="card-title text-center" style="font-size: 25px">
+                                PVC Block</h2>
+                                <div class="badge badge-secondary">Rp. 20000</div>
+                                <div class="card-actions justify-end">
+                                <div class="badge badge-outline">PVC</div> 
+                                <div class="badge badge-outline">Products</div>
+                            </div>
+                    </div>
+                    </div>
+                    <div class="card w-30 h-50 bg-white shadow-xl rounded-lg ml-10 mt-10" style="width:25%">
+                        <figure><img class="width:25%" src="/asset/image/molding 3.jpg" alt="" /></figure>
+                            <div class="card-body">
+                                <h2 class="card-title text-center" style="font-size: 25px">
+                                Molding Frame</h2>
+                                <div class="badge badge-secondary">Rp. 20000</div>
+                                <div class="card-actions justify-end">
+                                    <div class="badge badge-outline">Molding</div>
+                                <div class="badge badge-outline">Products</div>
+                            </div>
+                    </div>
+                    </div>
+                    <div class="card w-30 h-50 bg-white shadow-xl rounded-lg ml-10 mt-10" style="width:25%">
+                        <figure><img class="width:25%" src="/asset/image/molding wall.jpg" alt="" /></figure>
+                            <div class="card-body">
+                                <h2 class="card-title text-center" style="font-size: 25px">
+                                Molding Mirror</h2>
+                                <div class="badge badge-secondary">Rp. 20000</div>
+                                <div class="card-actions justify-end">
+                                <div class="badge badge-outline">Molding</div> 
+                                <div class="badge badge-outline">Products</div>
+                            </div>
+                        </div>
         </article>
 </body>
 @include('layout.footer')

@@ -30,7 +30,7 @@
     </div>
 </article>
 @yield('content')
-<div data-rsssl="1" class="home bg-yellow-700 page-template page-template-elementor_canvas page page-id-23 ast-desktop ast-page-builder-template ast-no-sidebar astra-2.3.3 ast-header-custom-item-inside ast-single-post ast-inherit-site-logo-transparent elementor-default elementor-template-canvas elementor-kit-13 elementor-page elementor-page-23 astra-addon-2.3.3 dialog-body dialog-lightbox-body dialog-container dialog-lightbox-container ast-mouse-clicked" data-elementor-device-mode="desktop" style="">
+{{-- <div data-rsssl="1" class="home bg-yellow-700 page-template page-template-elementor_canvas page page-id-23 ast-desktop ast-page-builder-template ast-no-sidebar astra-2.3.3 ast-header-custom-item-inside ast-single-post ast-inherit-site-logo-transparent elementor-default elementor-template-canvas elementor-kit-13 elementor-page elementor-page-23 astra-addon-2.3.3 dialog-body dialog-lightbox-body dialog-container dialog-lightbox-container ast-mouse-clicked" data-elementor-device-mode="desktop" style="">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap elementor-motion-effects-parent">
 				<section class="elementor-element elementor-element-0f4bb2e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="0f4bb2e" data-element_type="section">
@@ -74,7 +74,7 @@
 		</section>
 		</section>
 		<link rel="stylesheet" id="elementor-gallery-css" href="https://efatainterior.co.id/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.1.3" media="all">
-	</div>
+	</div> --}}
 </body>
 @include('layout.footer')
 </html>
