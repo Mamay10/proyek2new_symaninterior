@@ -42,7 +42,7 @@
         <div class="flex justify-center">
             <p class="mb-0 mt-2 pt-1 text-sm font-semibold text-white">
                 Belum punya akun?
-                <a href="#" class="text-danger transition duration-150 ease-in-out hover:text-danger-600 focus:text-danger-600 active:text-danger-700">Daftar akun disini</a>
+                <a href="/regist" class="text-danger transition duration-150 ease-in-out hover:text-danger-600 focus:text-danger-600 active:text-danger-700">Daftar akun disini</a>
             </p>
         </div>
         </form>

@@ -13,7 +13,7 @@
         <div class="centered">
         <div class="max-full bg-yellow-700">
             <div class="flex justify-center">
-                <p style="font-family: Poppins;" class="text-white text-5xl font-bold mt-3">HISTORY</p>
+                <p style="font-family: Poppins;" class="text-black bg-white rounded text-5xl font-bold mt-3">HISTORY</p>
             </div>
     
         </article>

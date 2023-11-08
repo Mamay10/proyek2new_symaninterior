@@ -13,8 +13,12 @@
         <div class="centered">
         <div class="max-full bg-yellow-700">
             <div class="flex justify-center">
-                <p style="font-family: Poppins;" class="text-white text-5xl font-bold mt-3">JASA</p>
+                <p style="font-family: Poppins;" class="text-black bg-white rounded text-5xl font-bold mt-3">JASA</p>
             </div>
+            <div class="grid" style="display: flex; justify-content:space-between">
+                <div class="flex">
+                <img src="/asset/image/jasa molding.png" src="/asset/image/jasa plafon.png" alt="" class="ml-8 mt-7 w-15 h-15">
+               
             
         </article>
 </body>
