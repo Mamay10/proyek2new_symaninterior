@@ -18,7 +18,7 @@
             <div class="grid" style="display: flex; justify-content:space-between">
                 <div class="flex">
                 <img src="/asset/image/jasa molding.png" src="/asset/image/jasa plafon.png" alt="" class="ml-8 mt-7 w-15 h-15">
-               
+            
             
         </article>
 </body>

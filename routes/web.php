@@ -1,7 +1,5 @@
 <?php
 
-
-use app\Http\Controllers\LoginController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,48 +12,13 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+
 Route::get('/', function () {
-    return view('Login');
-});
-
-Route::get('/regist', function () {
-    return view('register');
-});
-
-Route::post('/', function () {
-    return view('Login');
-});
-
-Route::get('/home', function () {
     return view('welcome');
 });
 
-Route::get('/home/barang', function () {
-    return view('barang');
-});
+Route::get('/dashboard', function () {
+    return view('dashboard');
+})->middleware(['auth'])->name('dashboard');
 
-Route::get('/home/barang/detail barang', function () {
-    return view('detail barang');
-});
-
-Route::get('/home/jasa', function () {
-    return view('jasa');
-});
-
-Route::get('/home/barang&jasa', function () {
-    return view('barang&jasa');
-});
-
-Route::get('/home/keranjang', function () {
-    return view('keranjang');
-});
-
-Route::get('/home/history', function () {
-    return view('history');
-});
-
-Route::get('/home/notifikasi', function () {
-    return view('barang');
-});
-
-
+require __DIR__.'/auth.php';
